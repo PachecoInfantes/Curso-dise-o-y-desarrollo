@@ -1,0 +1,14 @@
+print('Hola')
+Cadena = 'Hola'
+print(Cadena)
+Resultado = 1 + 2
+Resultado = Resultado ** 2
+print(Resultado)
+First_number = input('Introduzca el primer número:')
+Second_number = input('Introduzca el segundo número:')
+Resultado = (int(First_number) + int(Second_number)) ** 3
+print(Resultado)
+String_1 = 'Stranger things '
+Numero = 3
+String_2 = String_1 + str(Numero)
+print(String_2)
